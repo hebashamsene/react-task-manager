@@ -3,7 +3,7 @@
 ## About the Project
 **First React App** is a web application built using **React 18** as the core library for frontend development. The project leverages **Material UI (MUI)** to deliver modern and responsive user interfaces, alongside **React Router** for seamless routing and navigation between pages and components.
 
----
+
 
 ## Features
 - **Modern UI Design:** Crafted with Material UI components and icons for a consistent and responsive user experience.
@@ -11,7 +11,7 @@
 - **Unique ID Generation:** Integrates the `uuid` package to generate unique identifiers for data and components as needed.
 - **Testing Environment Ready:** Pre-configured component testing and quality assurance using React Testing Library and Jest.
 
----
+
 
 ## Technologies Used
 
@@ -30,11 +30,10 @@
 - **React Scripts (v5.0.1):** Development and build toolchain powered by Create React App.
 - **Testing Library (`@testing-library/react`, `jest-dom`, `user-event`):** Utilities for testing React components.
 
----
 
 ## Project Structure
 
-```text
+
 first-react-app/
 ├── node_modules/
 ├── public/
